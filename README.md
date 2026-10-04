@@ -7,6 +7,9 @@
   <a href="https://discord.gg/JYSy9fUwY">
     <img src="https://img.shields.io/badge/Discord-Entre%20na%20Duckside-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Servidor Discord da Duckside Studios" />
   </a>
+  <a href="https://discord.gg/JYSy9fUwY">
+    <img src="https://img.shields.io/badge/Contato-@tgamer1479-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Contato Discord: @tgamer1479" />
+  </a>
   <a href="https://github.com/Th14goAlvex?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-Projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projetos no GitHub" />
   </a>
@@ -34,6 +37,8 @@ Estou envolvido em projetos para comunidades de jogos, com foco especial no univ
 ## Comunidade Duckside
 
 Quer acompanhar o servidor, conversar sobre o projeto ou participar da comunidade?
+
+**Discord:** `@tgamer1479` · [Entrar no servidor Duckside Studios](https://discord.gg/JYSy9fUwY)
 
 <div align="center">
   <a href="https://discord.gg/JYSy9fUwY"><strong>Entrar no Discord da Duckside Studios →</strong></a>
